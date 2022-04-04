@@ -1,2 +1,2 @@
-### Hi 👋, I'm Ufuk Küçüktopçu
+### <center>Hi 👋, I'm Ufuk Küçüktopçu</center>
 
