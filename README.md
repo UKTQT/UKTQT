@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Ufuk Küçüktopçu
 
-#### Mid. level Flutter Developer
+#### Mid. level Mobile Developer
 
 <table>
   <tr>
